@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsmdimran
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning Data Mining Techniques
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me tsmdimran@gmail.com +91 9160439291
 
